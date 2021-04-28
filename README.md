@@ -16,7 +16,7 @@ cd CoronaVirusTrackerJava
 # install python's requests HTTP library
 pip3 install requests
 
-# intall matplotlib
+# install matplotlib
 python3 -m ensurepip --default-pip
 python -m pip install -U matplotlib
 
